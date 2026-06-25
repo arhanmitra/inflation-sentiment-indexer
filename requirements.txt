@@ -1,0 +1,8 @@
+requests==2.32.5
+python-dotenv==1.2.2
+psycopg2-binary        # PostgreSQL connector (Stage 3)
+transformers           # FinBERT NLP model (Stage 3)
+torch                  # Required by transformers (Stage 3)
+streamlit              # Dashboard (Stage 4)
+pandas                 # Data manipulation
+plotly                 # Charts for dashboard
